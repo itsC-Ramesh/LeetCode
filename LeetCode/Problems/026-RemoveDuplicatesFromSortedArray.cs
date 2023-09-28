@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LeetCode.Problems;
+﻿namespace LeetCode.Problems;
 internal class _026_RemoveDuplicatesFromSortedArray
 {
     //Problems: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
